@@ -1,0 +1,20 @@
+{
+  "name": "cpf-cnpj",
+  "version": "1.0.0",
+  "description": "Validation and formatting of CPF and CNPJ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Giovani Rubim Francisco",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanirubim/cpf-cnpj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/giovanirubim/cpf-cnpj/issues"
+  },
+  "homepage": "https://github.com/giovanirubim/cpf-cnpj#readme"
+}
